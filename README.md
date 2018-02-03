@@ -7,3 +7,6 @@ A docker image for CI / CD devops pipeline.
 * unzip
 * git
 * tfenv
+* python
+* pip
+* awscli
