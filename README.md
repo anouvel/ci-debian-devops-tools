@@ -10,3 +10,4 @@ A docker image for CI / CD devops pipeline.
 * python
 * pip
 * awscli
+* make

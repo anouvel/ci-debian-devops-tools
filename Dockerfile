@@ -7,7 +7,8 @@ RUN         apt-get -y update && apt-get -y upgrade && apt-get -y install \
               curl        \
               python      \
               python-yaml \
-              python-pip
+              python-pip  \
+              make
 
 RUN         pip install awscli
 
